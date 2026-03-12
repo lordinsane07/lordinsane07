@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION — cycles through each identity -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=00FFD1&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=🚀+MERN+Stack+Developer;🦋+Flutter+%26+Dart+Engineer;🧠+Machine+Learning+Engineer;⚔️+Competitive+Programmer+(Top+25%25+LeetCode);🔐+Security+Enthusiast+(Top+7%25+TryHackMe);🌍+Open+Source+Contributor+%40+Aossie" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=00FFD1&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=MERN+Stack+Developer;Flutter+%26+Dart+Engineer;Machine+Learning+Engineer;Competitive+Programmer+%28Top+25%25+LeetCode%29;Security+Enthusiast+%28Top+7%25+TryHackMe%29;Open+Source+Contributor+%40+Aossie" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,40 +31,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/lordinsane07/lordinsane07/output/github-contribution-grid-snake.svg"/>
   </picture>
 
-  <details>
-  <summary>⚙️ <b>Click to set up the snake animation in your profile repo</b></summary>
-  <br/>
-
-  Create `.github/workflows/snake.yml`:
-
-  ```yaml
-  name: Generate Snake Animation
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-    push:
-      branches: [main]
-  jobs:
-    generate:
-      permissions:
-        contents: write
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ```
-  </details>
 </div>
 
 ---
