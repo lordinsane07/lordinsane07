@@ -60,8 +60,12 @@ achievements:
   - "🔐 Top 7% on TryHackMe (4M+ users)"
 
 currently_building:
-  - "AI-Powered Leave Management System 🤖"
-  - "Depression Risk ML Screening Tool 🧠"
+  - "Deliberate — Structured Debate Platform ⚖️"
+  - "DocMind — Team Document Intelligence 🧠"
+  - "DocChat — Private Offline AI 📱"
+
+portfolio:  "https://mrittickdeb.vercel.app"
+codolio:    "https://codolio.com/profile/lordinsane"
 
 fun_fact: >
   I fight bugs in code AND cybersecurity —
@@ -72,21 +76,28 @@ fun_fact: >
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Dev Skills — Flaunted Properly
 
 <div align="center">
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-</p>
+> *Three distinct engineering disciplines. One developer.*
 
-### 🌐 Web / Full Stack — MERN
+---
+
+### 🌐 Full Stack Web — MERN
+
+```
+What I've actually built with this:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅  DocMind   — RAG pipeline, hybrid semantic+keyword search,
+                  real-time WebSocket collab, 68% AI cost savings
+  ✅  Deliberate — real-time fallacy detection engine, argument
+                  quality scoring system, Socket.io debate rooms
+  ✅  Leave Mgmt — JWT auth, OTP via Brevo API, Cloudinary CDN,
+                  role-based approval workflows, live notifications
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -94,42 +105,88 @@ fun_fact: >
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### 🦋 Mobile — Flutter
+---
+
+### 🦋 Mobile — Flutter / Dart
+
+```
+What I've actually built with this:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅  DocChat    — entire on-device AI pipeline: Whisper STT +
+                  Gemma 2B inference + Silero TTS, AES-256
+                  encryption, offline-first sync queue
+  ✅  Deliberate — cross-platform Flutter frontend, argument
+                  composer UI, real-time debate tree rendering
+  ✅  Aossie/Resonate — open source Flutter components &
+                  bug fixes merged into production codebase
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/On--Device_AI-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AES--256-FF0000?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
 </p>
 
-### 🧠 Machine Learning
+---
+
+### 🧠 Machine Learning & AI
+
+```
+What I've actually built with this:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅  Depression Risk Model — XGBoost on 27,901 records,
+                  recall-optimized (minimize false negatives),
+                  SMOTE balancing, SHAP explainability,
+                  gender fairness audit — production ML thinking
+  ✅  Anomaly Detection   — deep autoencoder (TensorFlow),
+                  unsupervised, reconstruction error scoring,
+                  threshold calibration vs baselines
+  ✅  Summer Training     — 2 end-to-end ML + full-stack apps,
+                  15,000+ records, 25% over baseline performance
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Cloud
+---
+
+### 🗄️ Databases, Cloud & DevOps
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-### 🔧 Tools & DevOps
-<p>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+</p>
+
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
 </div>
@@ -153,7 +210,7 @@ fun_fact: >
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lordinsane07&theme=tokyonight&no-frame=true&margin-w=6&row=1" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lordinsane07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 ---
@@ -166,25 +223,97 @@ fun_fact: >
 
 ---
 
+## 🧩 DSA & Problem Solving — Interview Ready
+
+<div align="center">
+
+> *I don't just build products — I solve hard problems. Here's the proof.*
+
+### 📊 Skill Breakdown
+
+```
+Data Structures & Algorithms
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Arrays & Strings          ████████████████████  Expert
+  Trees & Graphs            ███████████████░░░░░  Advanced
+  Dynamic Programming       ██████████████░░░░░░  Advanced
+  Binary Search             ████████████████████  Expert
+  Sliding Window / Two Ptr  ████████████████████  Expert
+  Recursion & Backtracking  █████████████░░░░░░░  Proficient
+  Heaps & Priority Queues   ████████████░░░░░░░░  Proficient
+  Bit Manipulation          ███████████░░░░░░░░░  Proficient
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Language of Choice: C++ (competitive) / Python (ML)
+```
+
+### 🎯 Numbers That Matter
+
+| Metric | Value |
+|---|---|
+| 🟨 LeetCode Rating | **1511** — Top 25% Globally |
+| 🟨 LeetCode Solved | **411 problems** |
+| 🟩 GFG Coding Score | **1362** — Institute Rank **276** |
+| 🟩 GFG Problems | **379 problems** |
+| 🔴 Striver SDE Sheet | **366 / 455** questions done |
+| 🔵 Codeforces | Rating **365** — actively competing |
+| 🔐 TryHackMe | **Top 7%** of 4M+ global users |
+| 📦 Total Solved | **1,156+ problems** across all platforms |
+
+### 🏷️ Topics I Can Be Interviewed On
+
+<p>
+  <img src="https://img.shields.io/badge/Arrays-00897B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Strings-00ACC1?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linked_Lists-1E88E5?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Binary_Search-7E57C2?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trees-43A047?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BST-66BB6A?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Graphs-FB8C00?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BFS_%2F_DFS-FFA726?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dynamic_Programming-E53935?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Greedy-EF5350?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recursion-8D6E63?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backtracking-795548?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heaps-5E35B1?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sliding_Window-039BE5?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Two_Pointers-0288D1?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bit_Manipulation-558B2F?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stacks_%2F_Queues-F4511E?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tries-6D4C41?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Segment_Trees-37474F?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Disjoint_Set-00695C?style=flat-square&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
 ## ⚔️ Competitive Programming
 
 <div align="center">
 
-### 🟨 LeetCode — Global Top 25% 🏅
+### 🟨 LeetCode — Rating 1511 · 411 Problems · Global Top 25% 🏅
 [![LeetCode](https://leetcard.jacoblin.cool/lord_insane?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/u/lord_insane/)
 
-### 🔵 Codeforces
+### 🟩 GeeksForGeeks — Score 1362 · 379 Problems · Institute Rank 276
+[![GFG](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=debmrittick)](https://www.geeksforgeeks.org/user/debmrittick/)
+
+### 🔵 Codeforces — Rating 365
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=lord_insane&theme=dark)](https://codeforces.com/profile/lord_insane)
 
 <br/>
 
-| 🏟️ Platform | 🔗 Profile | 🏆 Achievement |
-|---|---|---|
-| 🟨 **LeetCode** | [lord_insane](https://leetcode.com/u/lord_insane/) | 🥇 **Global Top 25%** — Weekly & Biweekly |
-| 🔵 **Codeforces** | [lord_insane](https://codeforces.com/profile/lord_insane) | Active Competitive Programmer |
-| 🟩 **GeeksForGeeks** | [Mrittick @ LPU](https://www.geeksforgeeks.org/user/debmrittick/) | GFG Campus Star |
-| 🔴 **TakeUForward** | [lord_insane](https://takeuforward.org/profile/lord_insane) | DSA Striver |
-| 🔐 **TryHackMe** | [My Profile](https://tryhackme.com) | 🏅 **Top 7% of 4M+ users** |
+| 🏟️ Platform | 🔗 Profile | 📊 Rating | ✅ Solved | 🏆 Rank |
+|---|---|---|---|---|
+| 🟨 **LeetCode** | [lord_insane](https://leetcode.com/u/lord_insane/) | **1511** | **411** | 🥇 Global Top 25% |
+| 🟩 **GeeksForGeeks** | [debmrittick](https://www.geeksforgeeks.org/user/debmrittick/) | Score **1362** | **379** | 🏛️ Institute Rank **276** |
+| 🔵 **Codeforces** | [lord_insane](https://codeforces.com/profile/lord_insane) | **365** | — | Active |
+| 🔴 **TakeUForward** | [lord_insane](https://takeuforward.org/profile/lord_insane) | — | **366** | DSA Striver Sheet |
+| 🔐 **TryHackMe** | [lord_insane](https://tryhackme.com/p/lord_insane) | — | — | 🏅 Top 7% of 4M+ |
+
+```
+📊 Total Problems Solved Across All Platforms:  411 + 379 + 366 = 1,156+ problems
+```
 
 </div>
 
@@ -262,8 +391,8 @@ fun_fact: >
 
 > **Resonate Project** — Active Contributor since Nov 2025
 
-- 🦋 Built **5+ Flutter UI components** from scratch
-- 🐛 Resolved **10+ UI & functional issues** via PRs
+- 🦋 Built Flutter UI components for the Resonate project
+- 🐛 Resolved UI & functional issues via pull requests
 - 🤝 Collaborated with core maintainers via code review
 - **Stack:** `Flutter` `Dart` `Git` `GitHub`
 
@@ -286,16 +415,49 @@ fun_fact: >
 
 ---
 
-## 🏅 Achievements
+## 🧠 CP / DSA Skills — Interview Ready
 
 <div align="center">
 
+> *Not just a developer — a problem solver. Here's the proof.*
+
+### 📊 At a Glance
+
+| Metric | Value |
+|---|---|
+| 🟨 LeetCode Rating | **1511** — Global Top 25% |
+| 🟨 LeetCode Solved | **411 problems** |
+| 🟩 GFG Coding Score | **1362** · **379 problems** · Institute Rank **276** |
+| 🔵 Codeforces Rating | **365** — Active Competitor |
+| 🔴 TUF Striver Sheet | **366 / 455** questions completed |
+| 🔐 TryHackMe | **Top 7%** of 4,000,000+ users |
+| 📦 Total Solved | **1,156+ problems** across all platforms |
+
+### 🗂️ DSA Topics Mastered
+
+<p>
+  <img src="https://img.shields.io/badge/Arrays%20%26%20Strings-Expert-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trees%20%26%20Graphs-Advanced-0288D1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-Advanced-7B1FA2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Binary%20Search-Expert-F57F17?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linked%20Lists-Expert-C62828?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stacks%20%26%20Queues-Expert-00838F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Recursion%20%26%20Backtracking-Advanced-558B2F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Greedy%20Algorithms-Advanced-E65100?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Heaps%20%26%20Priority%20Queues-Proficient-4527A0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tries%20%26%20Segment%20Trees-Proficient-00695C?style=for-the-badge"/>
+</p>
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  ⚔️   LeetCode Global Top 25% — Weekly & Biweekly Contests   ║
-║  🔐  TryHackMe Top 7%  (out of 4,000,000+ global users)      ║
-║  🌍  Open Source Contributor — Aossie / Resonate             ║
-╚══════════════════════════════════════════════════════════════╝
+Why this matters for interviews:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅  1,156+ problems solved — not just theory, actual reps
+  ✅  LeetCode 1511 rating — consistently performs in contests
+  ✅  Striver Sheet 366/455 — systematic, top-down DSA prep
+  ✅  GFG Institute Rank 276 — recognized among peers at LPU
+  ✅  Competitive mindset transfers directly to system design
+      and optimized production code
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
@@ -305,27 +467,120 @@ fun_fact: >
 ## 🌐 Connect With Me
 
 <div align="center">
+
+### 🔗 Social & Professional
   <a href="https://linkedin.com/in/mrittickdeb">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/lordinsane07">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="mailto:debmrittick@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://mrittickdeb.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1_FEBGENCVMRITTICKDEB/view">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+
+### 🧩 DSA & Problem Solving — Interview Ready
+
+<div align="center">
+
+> *I don't just build products — I solve hard problems. Here's the proof.*
+
+### 📊 Skill Breakdown
+
+```
+Data Structures & Algorithms
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Arrays & Strings          ████████████████████  Expert
+  Trees & Graphs            ███████████████░░░░░  Advanced
+  Dynamic Programming       ██████████████░░░░░░  Advanced
+  Binary Search             ████████████████████  Expert
+  Sliding Window / Two Ptr  ████████████████████  Expert
+  Recursion & Backtracking  █████████████░░░░░░░  Proficient
+  Heaps & Priority Queues   ████████████░░░░░░░░  Proficient
+  Bit Manipulation          ███████████░░░░░░░░░  Proficient
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Language of Choice: C++ (competitive) / Python (ML)
+```
+
+### 🎯 Numbers That Matter
+
+| Metric | Value |
+|---|---|
+| 🟨 LeetCode Rating | **1511** — Top 25% Globally |
+| 🟨 LeetCode Solved | **411 problems** |
+| 🟩 GFG Coding Score | **1362** — Institute Rank **276** |
+| 🟩 GFG Problems | **379 problems** |
+| 🔴 Striver SDE Sheet | **366 / 455** questions done |
+| 🔵 Codeforces | Rating **365** — actively competing |
+| 🔐 TryHackMe | **Top 7%** of 4M+ global users |
+| 📦 Total Solved | **1,156+ problems** across all platforms |
+
+### 🏷️ Topics I Can Be Interviewed On
+
+<p>
+  <img src="https://img.shields.io/badge/Arrays-00897B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Strings-00ACC1?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linked_Lists-1E88E5?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Binary_Search-7E57C2?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trees-43A047?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BST-66BB6A?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Graphs-FB8C00?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BFS_%2F_DFS-FFA726?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dynamic_Programming-E53935?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Greedy-EF5350?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recursion-8D6E63?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backtracking-795548?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heaps-5E35B1?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sliding_Window-039BE5?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Two_Pointers-0288D1?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bit_Manipulation-558B2F?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stacks_%2F_Queues-F4511E?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tries-6D4C41?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Segment_Trees-37474F?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Disjoint_Set-00695C?style=flat-square&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+## ⚔️ Competitive Programming
   <a href="https://leetcode.com/u/lord_insane/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://codeforces.com/profile/lord_insane">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-  <a href="https://takeuforward.org/profile/lord_insane">
-    <img src="https://img.shields.io/badge/TakeUForward-FF6B35?style=for-the-badge&logoColor=white"/>
-  </a>
   <a href="https://www.geeksforgeeks.org/user/debmrittick/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
-  <a href="mailto:debmrittick@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://takeuforward.org/profile/lord_insane">
+    <img src="https://img.shields.io/badge/TakeUForward-FF6B35?style=for-the-badge&logoColor=white"/>
   </a>
+  <a href="https://www.codechef.com/users/lord_insane">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/lord_insane">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+
+### 🏆 Portfolio & Stats
+  <a href="https://codolio.com/profile/lordinsane">
+    <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=data:image/png;base64,&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/debmrittick">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://kaggle.com/mrittickdeb">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+
 </div>
 
 ---
