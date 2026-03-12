@@ -199,6 +199,8 @@ Data Structures & Algorithms
 |---|---|
 | 🟨 LeetCode Rating | **1511** — Top 25% Globally |
 | 🟨 LeetCode Solved | **411 problems** |
+| 🟨 LeetCode Streak | **119 max streak** · **173 active days** · **565 submissions/year** |
+| 🏅 LeetCode Badges | **100 Days Badge** (Active) · **3× 50 Days Badge** |
 | 🟩 GFG Coding Score | **1362** — Institute Rank **276** |
 | 🟩 GFG Problems | **379 problems** |
 | 🔴 Striver SDE Sheet | **366 / 455** questions done |
@@ -242,9 +244,6 @@ Data Structures & Algorithms
 ### 🟨 LeetCode — Rating 1511 · 411 Problems · Global Top 25% 🏅
 [![LeetCode](https://leetcard.jacoblin.cool/lord_insane?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/u/lord_insane/)
 
-### 🟩 GeeksForGeeks — Score 1362 · 379 Problems · Institute Rank 276
-[![GFG](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=lord_insane)](https://www.geeksforgeeks.org/user/lord_insane/)
-
 ### 🔵 Codeforces — Rating 365
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=lord_insane&theme=dark)](https://codeforces.com/profile/lord_insane)
 
@@ -261,6 +260,70 @@ Data Structures & Algorithms
 ```
 📊 Total Problems Solved Across All Platforms:  411 + 379 + 366 = 1,156+ problems
 ```
+
+</div>
+
+---
+
+## 🚀 Currently Building — 3 Products
+
+<div align="center">
+
+> 🔨 *These are live, actively in-development products — not just side projects.*
+
+---
+
+### ⚖️ Deliberate — Structured Debate Platform
+> *2026 · Full Stack · Flutter + Node.js*
+
+**The antidote to toxic social media discourse.** No likes, no followers, no rage-bait — just structured arguments, evidence, logic scoring, and real-time fallacy detection.
+
+**Stack:** `Flutter` `Dart` `Node.js` `Express.js` `MongoDB` `Socket.io`
+
+| Feature | What it does |
+|---|---|
+| 🏗️ Structured Arguments | Thesis → Body → Evidence — forces thinking before posting |
+| ⏱️ Cooldown System | Anti-impulsive timer escalates on emotional / fallacious posts |
+| 🧮 Quality Scoring | Evidence (30%) + Logic (25%) + Peer (20%) + Engagement + Novelty |
+| 🚨 Fallacy Detector | Real-time: Ad hominem, Straw man, False dilemma & 5 more |
+| 🌳 Argument Graph | Visual tree showing full support/oppose debate structure |
+| 📋 Debate Summaries | Auto-generated key arguments from both sides |
+
+---
+
+### 🧠 DocMind — Team Document Intelligence
+> *2026 · Web App · RAG + Real-time Collaboration*
+
+**Your company's smart research assistant.** Search 5,000 documents in 30 seconds, get cited answers, and have your whole team on the same page — in real-time.
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `WebSocket` `Vector DB` `LLM APIs`
+
+| Feature | What it does |
+|---|---|
+| 🔍 Hybrid Search | Semantic + keyword search across ALL company documents |
+| 🤝 Real-time Collaboration | Live highlights & answers synced across the whole team |
+| 🧩 Complex Reasoning | Combines multiple docs for multi-step answers |
+| 📎 Source Citations | Every answer links to the exact source document + page |
+| 💰 Cost Intelligence | Smart caching → 68% savings on AI API costs |
+| 📊 Analytics Dashboard | Queries answered, cost per question, team usage insights |
+
+---
+
+### 📱 DocChat — Private Offline AI Assistant
+> *2026 · Mobile App · Flutter + On-Device AI*
+
+**Your personal secret-keeping AI.** Runs entirely on your phone — no internet, no cloud, zero data ever leaving your device. HIPAA-ready for doctors, lawyers, executives.
+
+**Stack:** `Flutter` `Dart` `Whisper (on-device)` `Gemma 2B` `Silero TTS` `AES-256`
+
+| Feature | What it does |
+|---|---|
+| ✈️ Fully Offline | AI runs ON your device — works on flights, remote areas |
+| 🔐 Zero Data Transmission | Nothing ever leaves your device — ever |
+| 🎙️ Voice I/O | Speak questions, hear answers — fully on-device |
+| 🔄 Smart Sync | Offline queue syncs automatically when back online |
+| 🧠 Learns You | Personalizes responses to your preferences over time |
+| 🌍 Multi-language | Ask in any language, get answers in your language |
 
 </div>
 
