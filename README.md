@@ -12,8 +12,8 @@
 
 <!-- BADGES ROW -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mrittickdeb&label=Profile%20Views&color=00FFD1&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/mrittickdeb?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=lordinsane07&label=Profile%20Views&color=00FFD1&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/lordinsane07?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
   <a href="mailto:debmrittick@gmail.com"><img src="https://img.shields.io/badge/Email-debmrittick%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -26,9 +26,9 @@
   <h2>🐍 Snake Devouring My Contributions</h2>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrittickdeb/mrittickdeb/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrittickdeb/mrittickdeb/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mrittickdeb/mrittickdeb/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordinsane07/lordinsane07/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lordinsane07/lordinsane07/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/lordinsane07/lordinsane07/output/github-contribution-grid-snake.svg"/>
   </picture>
 
   <details>
@@ -174,11 +174,11 @@ fun_fact: >
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrittickdeb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrittickdeb&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lordinsane07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lordinsane07&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrittickdeb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrittickdeb&theme=tokyonight&utcOffset=5.5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordinsane07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lordinsane07&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
@@ -187,7 +187,7 @@ fun_fact: >
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrittickdeb&theme=tokyonight&no-frame=true&margin-w=6&row=1" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lordinsane07&theme=tokyonight&no-frame=true&margin-w=6&row=1" width="100%"/>
 </div>
 
 ---
@@ -195,7 +195,7 @@ fun_fact: >
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrittickdeb&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lordinsane07&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -342,7 +342,7 @@ fun_fact: >
   <a href="https://linkedin.com/in/mrittickdeb">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/mrittickdeb">
+  <a href="https://github.com/lordinsane07">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/lord_insane/">
